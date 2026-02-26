@@ -1,5 +1,5 @@
-## Hey Hi there 👋
-Glad to see you here.
+# Hey 
+## Glad to see you here 👋
 
 <h1 align="center">Hi 👋, I'm Vishnu Kulkarni</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
@@ -20,7 +20,7 @@ Glad to see you here.
 
 - 💬 Ask me about **Data analysis, Data Engineering, python, Machine Learning**
 
-- 📫 How to reach me **vishnukulkarni2426@gmail.com**
+- 📫 How to reach me **k.vishnu2426@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
