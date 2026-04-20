@@ -2,7 +2,7 @@
 ## Glad to see you here 👋
 
 <h1 align="center">Hi 👋, I'm Vishnu Kulkarni</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A Passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukulkarni24&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukulkarni24" /> </p>
 
